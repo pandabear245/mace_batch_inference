@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+conda-env/
+
+# ASE / databases
+*.db
+database_*/
+
+# PyTorch / ML
+*.pt
+*.pth
+*.ckpt
+
+# Logs and scratch
+*.log
+*.out
+*.err
+scratch/
+tmp/
+
+# OS
+.DS_Store
